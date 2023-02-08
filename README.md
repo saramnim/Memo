@@ -22,6 +22,7 @@ app.use((err, req, res, next) => {
 ```
 
 ## API
+[API 문서](https://documenter.getpostman.com/view/24016515/2s935rJ2s6)</br>
 `localhost:3000`을 변수 `{{HOST}}`로 저장</br>
 ![image](https://user-images.githubusercontent.com/112938316/217225568-456e9cb0-e925-499c-9de5-3c587426d23a.png)
 
